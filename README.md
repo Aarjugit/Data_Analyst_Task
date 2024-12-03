@@ -8,4 +8,5 @@ Tasks-
    ![solution_2](https://github.com/user-attachments/assets/220696fb-bff8-4976-8227-09c7284a8fcb)
    
 3. Analyse tweets to show a comparison of the engagement rate for tweets with app opens versus tweets without app opens. Include only tweets posted between 9 AM and 5 PM on weekdays and this graph should work between 12 PM to 6 PM and the tweet impression should be even number and tweet date should be odd number as well as tweet word count be below 40.
+   ![Solution_3](https://github.com/user-attachments/assets/5cef477f-e0fd-4147-96cb-46304f48354c)
 
